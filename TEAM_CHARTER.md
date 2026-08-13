@@ -128,5 +128,5 @@ By acknowledging below, each member confirms that they have reviewed and agreed 
 | Ann Wangui | Team Lead | Pending |
 | Nashon Owino | Team Member | Pending |
 | Victor Mshindi  | Team Member |Pending|
-| Tito Kunyambu | Team Member | Pending|
+| Tito Kinyambu | Team Member | Pending|
 | Michelle Njoroge | Team Member |Pending |
