@@ -125,7 +125,7 @@ By acknowledging below, each member confirms that they have reviewed and agreed 
 
 | Team Member | Role | Acknowledgement |
 |---|---|---|
-| Ann Wangui | Team Lead | Pending |
+| Ann Wangui | Team Lead | Agreed (August 13th) |
 | Nashon Owino | Team Member | Pending |
 | Victor Mshindi  | Team Member |Pending|
 | Tito Kinyambu | Team Member | Pending|
