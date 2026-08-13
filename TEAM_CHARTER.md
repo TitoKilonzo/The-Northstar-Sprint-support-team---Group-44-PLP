@@ -9,7 +9,7 @@ The team will work toward a Support Deflection MVP that reduces manual support h
 - Returns/refunds
 - Stock availability
 
-## 2. Communication
+## 2. Communication (WhatsApp Group & Google Meet)
 
 - The team will use the agreed group communication channel for day-to-day coordination.
 - The GitHub repository and Project Board will be used to record project work, task status, decisions, and relevant project information.
