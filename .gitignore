@@ -3,4 +3,4 @@
 node_modules/
 .next/
 local.db
-scripts/*-output.jsongit rm --cached local.db
+scripts/*-output.json
