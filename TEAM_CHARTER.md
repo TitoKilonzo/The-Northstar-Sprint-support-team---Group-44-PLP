@@ -127,6 +127,6 @@ By acknowledging below, each member confirms that they have reviewed and agreed 
 |---|---|---|
 | Ann Wangui | Team Lead | Agreed (August 13th) |
 | Nashon Owino | Team Member | Agreed (August 13th) |
-| Victor Mshindi  | Team Member |Pending|
+| Victor Mshindi  | Team Member |Agreed (August 14th)|
 | Tito Kinyambu | Team Member | Agreed (August 13th)|
 | Michelle Njoroge | Team Member |Pending |
