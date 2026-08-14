@@ -1,4 +1,4 @@
-# Team Charter - Northstar Support MVP
+9# Team Charter - Northstar Support MVP
 
 ## 1. Purpose
 
@@ -129,4 +129,4 @@ By acknowledging below, each member confirms that they have reviewed and agreed 
 | Nashon Owino | Team Member | Agreed (August 13th) |
 | Victor Mshindi  | Team Member |Agreed (August 14th)|
 | Tito Kinyambu | Team Member | Agreed (August 13th)|
-| Michelle Njoroge | Team Member |Pending |
+| Michelle Njoroge | Team Member | Agreed (August 14th) |
