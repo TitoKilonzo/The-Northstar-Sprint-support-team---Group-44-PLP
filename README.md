@@ -4,7 +4,7 @@ Self-serve MVP for The Northstar Sprint. Lets a customer check an order's
 status, or run a return/refund request through the eligibility rules,
 without ever talking to a support agent.
 
-## Running it
+## Running it (MVP)
 
 ```bash
 npm install
