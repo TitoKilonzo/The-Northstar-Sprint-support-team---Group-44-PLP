@@ -45,7 +45,7 @@ export default function DashboardPage() {
                   <td className="py-2">{new Date(o.placed_at).toLocaleString()}</td>
                   <td className="py-2">{o.delivered_at ? new Date(o.delivered_at).toLocaleString() : "—"}</td>
                   <td className="py-2">
-                    <a className="text-blue-600 hover:underline" href={`/dashboard/order/${encodeURIComponent(o.order_id)}`}>
+                    <a className="text-orange-600 hover:underline" href={`/dashboard/order/${encodeURIComponent(o.order_id)}`}>
                       View
                     </a>
                   </td>

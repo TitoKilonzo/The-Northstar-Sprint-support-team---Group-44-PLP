@@ -5,7 +5,8 @@
 :root {
   --northstar-navy: #111827;
   --northstar-blue: #2563eb;
-  --northstar-blue-dark: #1d4ed8;
+  --northstar-blue: #f97316; /* orange-500 */
+  --northstar-blue-dark: #ea580c; /* orange-600 */
   --northstar-bg: #f6f7f9;
   --northstar-card: #ffffff;
   --northstar-border: #e5e7eb;
