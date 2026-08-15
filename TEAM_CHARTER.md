@@ -1,4 +1,4 @@
-9# Team Charter - Northstar Support MVP
+  Team Charter - Northstar Support MVP
 
 ## 1. Purpose
 
