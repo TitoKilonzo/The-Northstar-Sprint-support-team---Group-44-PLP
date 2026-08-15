@@ -1,4 +1,4 @@
-import import { createClient } from "@libsql/client";
+import { createClient } from "@libsql/client";
 
 // local sqlite file by default, no setup needed. swap to a real Turso
 // db later by dropping TURSO_DATABASE_URL / TURSO_AUTH_TOKEN in .env.local
